@@ -1,0 +1,35 @@
+body { background-color: rgb(253, 251, 251);
+}
+
+.barra { top: 0;
+  position: fixed;
+  margin-left: 200px;
+  padding: 20px;
+  border-color: green;
+  border-style: dotted;
+  font-family: monospace;
+}
+
+.rodape { bottom: 0;
+  position: fixed;
+}
+
+article { color: green;
+  font-size: 30px;
+  font-family: cursive;
+  line-height: 1.5;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  float: left;
+  width: 66%;
+  border: 5px solid purple;
+}
+
+.lado-direito {
+  display: inline-block;
+  float: right;
+  width: 20%;
+  border: 5px solid purple;
+}
