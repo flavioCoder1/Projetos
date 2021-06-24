@@ -13,4 +13,3 @@ Zoo Functions
 Shopping Cart
 Jest
 Movie Cards Lirary
-lol
